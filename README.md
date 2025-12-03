@@ -61,7 +61,15 @@ python -m src.eval --checkpoint ckpt_best.pt
 
 ## 📊 Example Output (Mixture Predictions)
 
-> *(Add images here later — I can generate them for you using the model.)*
+### Episode-level Density Prediction
+Below is an example of context points (blue) and predicted samples (orange):
+
+<img src="images/eval_scatterplots.png" width="450">
+<img src="images/eval_contours.png" width="450">
+<img src="images/eval_histograms (1).png" width="450">
+<img src="images/per_episode_metrics(1).png" width="450">
+<img src="images/kl_results.png" width="450">
+
 
 ---
 

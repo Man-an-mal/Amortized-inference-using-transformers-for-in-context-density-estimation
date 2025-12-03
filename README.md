@@ -1,2 +1,1 @@
-# Amortized-inference-using-transformers-for-in-context-density-estimation
-PyTorch implementation of In-Context Density Estimation with Transformers and Mixture Density Networks.
+# ICDE cleaned repo\nSee src/ for code\n

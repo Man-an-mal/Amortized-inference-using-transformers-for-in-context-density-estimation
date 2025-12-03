@@ -18,7 +18,7 @@ This repository contains a clean, modular PyTorch implementation of
 - **Synthetic 2D Gaussian mixture episodes**  
 - **Amortised evaluation on unseen mixtures**
 
-This project was originally developed as part of my **MSc dissertation** in probabilistic machine learning.
+This project was originally developed as part of my **MSc dissertation** in probabilistic machine learning. Please read the Report.pdf for detailed report about the working, methodology and achievements.
 
 ---
 
